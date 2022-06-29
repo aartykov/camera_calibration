@@ -9,3 +9,5 @@ This project implements camera calibration based on Zhang's method.
 * Numpy
 * Scipy
 
+# Reference
+[1] Zhang Z., "A Flexible New Technique for Camera Calibration", (1998).
