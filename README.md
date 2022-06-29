@@ -1,3 +1,5 @@
 # camera calibration python
 
-## Introduction
+Introduction
+
+This project implements camera calibration based on Zhang's method.
