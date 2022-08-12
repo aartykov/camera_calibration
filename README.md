@@ -2,7 +2,7 @@
 
 # Introduction
 
-This project implements camera calibration based on Zhang's method.
+This project implements camera calibration based on Zhang's method[1].
 
 ## Dependency
 * Opencv
